@@ -2,4 +2,4 @@
 
 Requires
 * [EtherBright Library](https://github.com/maniacbug/EtherBright)
-* [VS1033 Library](https://github.com/maniacbug/VS1053)
+* [VS1053 Library](https://github.com/maniacbug/VS1053)
