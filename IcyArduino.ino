@@ -12,7 +12,7 @@
 #include <avr/io.h>
 
 // Library Includes
-
+#include <SPI.h>
 #include "EtherBright.h"
 
 // Project Includes
